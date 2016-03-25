@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<toc>Help System Example
+	<topic href="intro.html">Introduction</topic>
+	<topic>Tasks
+		<topic href="tasks/task1.html">Creating a Project
+			<topic href="tasks/task11.html">Creating a Web Project</topic>
+			<topic href="tasks/task12.html">Creating a Java Project</topic>
+		</topic>
+		<topic href="tasks/taskn.html">Testing a Project</topic>
+	</topic>
+	<topic>Samples
+		<topic href="samples/sample1.html">Creating Java Project
+			<topic href="samples/sample11.html">Launch a Wizard</topic>
+			<topic href="samples/sample12.html">Set Options</topic>
+			<topic href="samples/sample13.html">Finish Creating Project</topic>
+		</topic>
+	</topic>
+</toc>
